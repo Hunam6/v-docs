@@ -1,1 +1,10 @@
-{}
+{
+  "name": "The V programming language",
+  "theme": "#4c73b2",
+  "logo": "/docs/assets/v-logo.png",
+  "twitter": "v_language",
+  "sidebar": [
+    ["Introduction", "/"],
+    ["Installation", "/installation"]
+  ]
+}
