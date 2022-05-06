@@ -5,10 +5,7 @@
   "twitter": "v_language",
   "sidebar": [
     ["index.mdx", "/"],
-    "page-at-root.mdx",
-    [
-      ["part-one/index.mdx", "/part-one"],
-      [["part-one/abc.mdx", "/part-one/abc"]]
-    ]
+    ["page-at-root.mdx", "/page-at-root"],
+    ["part-one/index.mdx", [["part-one/abc.mdx", "/part-one/abc"]]]
   ]
 }
