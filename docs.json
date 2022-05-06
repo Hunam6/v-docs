@@ -6,6 +6,12 @@
   "sidebar": [
     ["index.mdx", "/"],
     ["page-at-root.mdx", "/page-at-root"],
-    ["part-one/index.mdx", [["part-one/abc.mdx", "/part-one/abc"]]]
+    [
+      "part-one",
+      [
+        ["part-one/index.mdx", "/part-one"],
+        ["part-one/abc.mdx", "/part-one/abc"]
+      ]
+    ]
   ]
 }
