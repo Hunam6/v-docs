@@ -8,14 +8,7 @@
     ["page-at-root.mdx", "/page-at-root"],
     [
       ["part-one/index.mdx", "/part-one"],
-      [
-				["part-one/abc.mdx", "/part-one/abc"]
-			]
-    ],
-    [
-			"part-two", [
-			["part-two/foo.mdx", "/part-two/foo"]
-			]
-		]
+      [["part-one/abc.mdx", "/part-one/abc"]]
+    ]
   ]
 }
